@@ -2,6 +2,4 @@
 
 Recipe:
 
-1) Add Flour
-2) Add Eggs
-3) Add Milk
+1) Add Milk
